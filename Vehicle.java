@@ -1,4 +1,4 @@
-package com.mycompany.trafficmanagementsystem;
+package Project;
 
 public class Vehicle {
     private String id;
