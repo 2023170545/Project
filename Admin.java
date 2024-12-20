@@ -1,4 +1,4 @@
-package com.mycompany.trafficmanagementsystem;
+package Project;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
