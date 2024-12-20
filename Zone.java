@@ -1,4 +1,4 @@
-package com.mycompany.trafficmanagementsystem;
+package Project;
 
 import java.util.ArrayList;
 
